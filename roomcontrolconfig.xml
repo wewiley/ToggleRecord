@@ -1,0 +1,24 @@
+<Extensions>
+  <Version>1.5</Version>
+  <Panel>
+    <PanelId>panel_1</PanelId>
+    <Type>InCall</Type>
+    <Icon>Disc</Icon>
+    <Order>1</Order>
+    <Color>#FF3D67</Color>
+    <Name>Recording</Name>
+    <Page>
+      <Name>Record</Name>
+      <Row>
+        <Name>Toggle Record</Name>
+        <Widget>
+          <WidgetId>widget_1</WidgetId>
+          <Type>ToggleButton</Type>
+          <Options>size=1</Options>
+        </Widget>
+      </Row>
+      <PageId>Record</PageId>
+      <Options/>
+    </Page>
+  </Panel>
+</Extensions>
